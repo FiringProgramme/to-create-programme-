@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title>Page title</title>
+				<style>
+								body {
+												background-color: Black ;
+								}
+               .div1{
+               				background: red ;
+               				padding: 25px 15px ;
+               }
+               .div2{
+               				background-color: snow ;
+               				padding: 0px 23px ;
+               }
+               .div3{
+               				background-color:  ;
+               				padding: 1px ;
+               }
+               .div4{
+               				background-color: green ;
+               				padding: 25px 35px ;
+               }
+               h1{
+               				padding: 0px 120px ;
+               				font-size: 15px ;
+               				display: block ;            
+               		  }
+               .h2{
+               				padding: 0px 140px ;
+               				font-size: 40px ;
+               }
+               .h3{
+               				padding: 0px 85px ;
+               }
+               .p1{
+               				padding: 0px 10px ;
+               }
+               table{
+               				padding: 0px 17px ;
+               				color: snow ;
+               				border_collapse: collapse ;
+               				background-color: Black ;      
+                     }
+               .p2{
+               				padding: 0px 138px;
+               				color: snow ;
+               				font-size: 13px;
+               }
+               .div5{
+               				background: #7aff00;
+               				padding: 0px 70px;
+               				border-radius: 20px;
+               }
+               input{
+               				padding: 7px 20px ;
+               				border-radius: 15px ;
+               }
+               button{
+               				padding: 7px 89px ;
+               				border-radius: 15px ;
+               }
+               hr{
+               				width: 0px ;
+               }
+               a{
+               				margin: 162px ;
+               				color: snow ;
+               }
+               .hr1{
+               				width: 350px ;
+               				background-color: snow ;
+               }
+				</style>
+</head>
+<body>
+<div class="div1"><h1>Kurdish World</h1></div>
+<div class="div2"><div class="div3"><h1 class="h2">☀️</h1></div></div>
+<div class="div4"><h1 class="h3"> Programmer.team</h1></div>
+<table border="1px">
+<div>
+<tr>
+<th><p class="p1">host:300$</p></th>
+<th><p class="p1">Date Base:700$</p></th>
+<th><p class="p1">Api : 10 $</p></th>
+</tr>
+</table>	
+</div>
+<p class="p2">↘️to.massage↙️</p>
+<div class="div5"> 
+<input type="search" placeholder="Enter Your Massage">
+<hr></hr>
+<button>Submit</button>
+</div>
+<a href="Home.html">HOME</a>
+</body>
+</html>
